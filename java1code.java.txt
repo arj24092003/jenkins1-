@@ -1,5 +1,5 @@
-class AJ {
+class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("AJ009"); 
+        System.out.println("Hello, World!"); 
     }
 }
